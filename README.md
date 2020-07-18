@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://lh3.googleusercontent.com/-xy1z6lTvWNA/XcwmsPz-rzE/AAAAAAAAQdE/L0MvfF5VHr8L1SE9L8Cz0IBivrvAQAZjwCEwYChgbKtMDAL1Ocqxn9nhn2hZ4-lElfDPwBKD68MxRz8R7OOvr8kQHsEBtTjflAPl-X8lsJN-iBxH0FvS5d6qQc0bnN-xEyiR7mz877EW2K10Z0fwjOUSQROhrF_BxrAy3wDgwlR4VipwY309ytBYBpzOBbAnckDZISMDfbZYutJB9i5jY_k7mXWvSFqO8R-hF3HKfNhvH8fiBkSFmHw0VCassVKwf1iIP8izfKHL0wQIegv8NQJe3Pf-YcwZJSiLnseUQdDvgosUJLy9E6DgpZuv0qDgqpU0LltaTN-InTx1eeAiWnBZmpXeW5MsvLG00C8JAalCyKOxmLf28-g5rWENBxZ4C86ASETQziI-iKZzPb9HJvLBDBCIBHZ8XL0tZE3o5jhnG51BgCzNeMRvI0_2OqRmpocAOw2hIby_zOe3X8V1Q1nUayRhaXqcaltzRC_ANoEXia_ZuSQM3bftD2NaXHbnfCdh4Iqk4aTCrI6AlMT34lC6pbmTBzlmVCqHCWDQq8hy2XHK2-22fI_AVC_nvdC1Gi_sr7jVTtfJhQYDMAAXZAc84bCS6QWZPp-u5udpw2IhwTD1tjaiwgik-OOv9edkl78TvyYkJASvWLmjxX3VxemxbTmYw8pbK-AU/w326-h220-p/6758819682376920881">
-  
+
   [![Anurag's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=stevenhdz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
 
 
 
