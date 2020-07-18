@@ -15,12 +15,6 @@
   </a>
 </p>
 
-### 📝 Latest articles I wrote on [midu.dev](https://midu.dev):
-- [Cómo crear tu perfil de Github con README](https://midu.dev/como-crear-tu-perfil-de-github-con-readme/)
-- [La mejor música para programar - {code-fi} 👨‍💻 🎧](https://midu.dev/code-fi-lofi-hip-hop-radio-m%C3%BAsica-para-programar/)
-- [Curso gratis de ReactJS 2020 con clases en vivo](https://midu.dev/curso-gratis-react-2020/)
-- [Entrevista con Guillermo Rauch, CEO de Vercel ▲ (ZEIT)](https://midu.dev/entrevista-con-guillermo-rauch-ceo-de-vercel/)
-- [Cómo eliminar un fichero con Node.js](https://midu.dev/como-eliminar-un-ficher-con-node-js/)
 
 <p align="left">
   <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="24px" height="24px"/>
