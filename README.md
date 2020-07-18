@@ -1,7 +1,7 @@
 
 -------------------------->[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stevenhdz)](https://github.com/anuraghazra/github-readme-stats)<------------------
 
-J
+
 
 
 <h1 align="center">Hi 👋, I'm Alexander Jimenez</h1>
