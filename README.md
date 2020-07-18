@@ -7,28 +7,13 @@
    <a href="https://youtube.com/stevenhjr9000" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="midudev" height="28px" width="28px" />
   </a>
-  <a href="https://twitter.com/midualexingsistemas" target="blank">
+  <a href="https://twitter.com/alexingsistemas" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" />
   </a>
-  <a href="https://fb.com/midudev.frontend" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="midudev.frontend" height="28px" width="28px" />
-  </a>
-  <a href="https://instagram.com/midu.dev" target="blank">
+  <a href="https://instagram.com/shernaji20" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="28px" width="28px" />
   </a>
 </p>
-
-### 📹 My latest videos on [my Youtube Channel](https://youtube.com/midudev):
-
-<a href='https://youtu.be/1eEnboVooiY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/1eEnboVooiY/mqdefault.jpg' alt='Crea tu Github Readme Profile paso a paso y añade GitHub Actions' />
-</a>
-<a href='https://youtu.be/DjVGdUM1dHQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/DjVGdUM1dHQ/mqdefault.jpg' alt='CSS en JS y Styled Components con Emotion y React' />
-</a>
-<a href='https://youtu.be/vq_usTOxJgM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/vq_usTOxJgM/mqdefault.jpg' alt='Mi nuevo ESPACIO DE TRABAJO para desarrollo WEB | Studio Tour 2020' />
-</a>
 
 ### 📝 Latest articles I wrote on [midu.dev](https://midu.dev):
 - [Cómo crear tu perfil de Github con README](https://midu.dev/como-crear-tu-perfil-de-github-con-readme/)
