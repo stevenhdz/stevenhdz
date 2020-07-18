@@ -21,5 +21,5 @@
   <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="24px" height="24px"/>
   <img src="https://github.com/konpa/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="24px" height="24px"/>
   <img src="https://github.com/konpa/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="24px" height="24px"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="24px" height="24px"/>
+  <img src="https://github.com/konpa/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular" width="24px" height="24px"/>
 </p>
