@@ -15,6 +15,7 @@
   </a>
 </p>
 
+<h1 align="center">TECNHNOLOGY</h1>
 
 <p align="center">
   <img src="https://github.com/konpa/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="24px" height="24px"/>
