@@ -1,7 +1,7 @@
 ![me](https://user-images.githubusercontent.com/1561955/87837906-82e5c500-c895-11ea-83b8-f6d134ae64ec.png)
 
-<h1 align="center">Hi 👋, I'm Miguel Ángel</h1>
-<h3 align="center">A passionate frontend developer 👨‍💻 from Barcelona, Spain 🇪🇸</h3>
+<h1 align="center">Hi 👋, I'm Alexander Jimenez</h1>
+<h3 align="center">A passionate frontend developer 👨🏻‍💻 from Medellin, Colombia 🇨🇴</h3>
 
 <p align="center">
    <a href="https://youtube.com/midudev" target="blank" style='margin-right:4px'>
