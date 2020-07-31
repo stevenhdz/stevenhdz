@@ -23,7 +23,7 @@
 
 <p align="center">
   <img src="https://github.com/konpa/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="24px" height="24px"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="24px" height="24px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="24px" height="24px"/>
   <img src="https://github.com/konpa/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="24px" height="24px"/>
   <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="24px" height="24px"/>
   <img src="https://github.com/konpa/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="24px" height="24px"/>
