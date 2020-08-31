@@ -23,6 +23,7 @@
 
 <p align="center">
    
+   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="bootstrap" width="24px" height="24px"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="bootstrap" width="24px" height="24px"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="bootstrap" width="24px" height="24px"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="bootstrap" width="24px" height="24px"/>
@@ -37,6 +38,5 @@
   <img src="https://github.com/konpa/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="24px" height="24px"/>
   <img src="https://github.com/konpa/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="24px" height="24px"/>
   <img src="https://github.com/konpa/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular" width="24px" height="24px"/>
-  <img src="https://github.com/konpa/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery" width="24px" height="24px"/>
   <img src="https://github.com/konpa/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="24px" height="24px"/>
 </p>
