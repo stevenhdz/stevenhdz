@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<h1 align="center">Lenguages programming</h1>
+<h1 align="center">Languages programming</h1>
 <p align="center">
    <img src="https://github.com/konpa/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="24px" height="24px"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="24px" height="24px"/>
