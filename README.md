@@ -22,6 +22,14 @@
 <h1 align="center">TECNHNOLOGY and tools</h1>
 
 <p align="center">
+   
+   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="bootstrap" width="24px" height="24px"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="bootstrap" width="24px" height="24px"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="bootstrap" width="24px" height="24px"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="bootstrap" width="24px" height="24px"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="bootstrap" width="24px" height="24px"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="bootstrap" width="24px" height="24px"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="bootstrap" width="24px" height="24px"/>
   <img src="https://github.com/konpa/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="24px" height="24px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="24px" height="24px"/>
   <img src="https://github.com/konpa/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="24px" height="24px"/>
