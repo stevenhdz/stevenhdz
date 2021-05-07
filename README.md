@@ -8,6 +8,5 @@
 </p>
 
 
-Aun no tengo todos mis repos montados.
 
 [![My GitHub](https://github-readme-stats.vercel.app/api/?username=stevenhdz&count_private=true&theme=tokyonight&showicons=true)]() [![Used](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenhdz&layout=compact&langs_count=8&theme=tokyonight)]()
