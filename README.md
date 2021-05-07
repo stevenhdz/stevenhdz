@@ -10,4 +10,4 @@
 
 Aun no tengo todos mis repos montados.
 
-[![My GitHub](https://github-readme-stats.vercel.app/api/?username=stevenhdz&count_private=true&theme=tokyonight&showicons=true)]()___ [![Used](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenhdz&langs_count=8&theme=tokyonight)]()
+[![My GitHub](https://github-readme-stats.vercel.app/api/?username=stevenhdz&count_private=true&theme=tokyonight&showicons=true)]()___ [![Used](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenhdz&layout=compact&langs_count=8&theme=tokyonight)]()
