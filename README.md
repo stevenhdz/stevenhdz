@@ -9,4 +9,4 @@
 
 
 
-[![My GitHub](https://github-readme-stats.vercel.app/api/?username=stevenhdz&count_private=false&theme=tokyonight&showicons=true)]() [![Used](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenhdz&layout=compact&hide=TSQL,typescript,hack,java,papyrus&langs_count=8&theme=tokyonight)]()
+[![My GitHub](https://github-readme-stats.vercel.app/api/?username=stevenhdz&count_private=false&theme=tokyonight&showicons=true)]() [![Used](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenhdz&layout=compact&hide=TSQL,typescript,hack,papyrus&langs_count=8&theme=tokyonight)]()
