@@ -8,4 +8,4 @@
 </p>
 
 
-[![My GitHub](https://github-readme-stats.vercel.app/api/?username=stevenhdz&count_private=false&theme=tokyonight&showicons=true)]() [![Used](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenhdz&layout=compact&hide=TSQL,typescript,hack,papyrus,scss&langs_count=10&theme=tokyonight)]()
+[![My GitHub](https://github-readme-stats.vercel.app/api/?username=stevenhdz&count_private=false&theme=tokyonight&showicons=true)]() [![Used](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenhdz&layout=compact&hide=TSQL,typescript,hack,papyrus,scss,html,css&langs_count=10&theme=tokyonight)]()
