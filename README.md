@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend and backend developer 👨🏻‍💻 from Medellin, Colombia 🇨🇴</h3>
 
 <p align="center">
-  <h3 align="center">I love programming in Python,Php,Javascript between others technologys</h3>
+  <h3 align="center">I love programming in Python,Php,Javascript between others technologys for more 2.5 years</h3>
 </p>
 
 
