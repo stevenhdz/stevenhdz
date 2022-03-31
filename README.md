@@ -5,12 +5,12 @@
 <h3 align="center">A passionate frontend and backend developer 👨🏻‍💻 from Medellin, Colombia 🇨🇴</h3>
 
 <p align="center">
-  <h3 align="left">
+  <pre align="left">
     Experiencie the work with:
     - home office 
     - freelance
     - staff training 
-  </h3>
+  </pre>
 </p>
 
 
