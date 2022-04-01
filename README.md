@@ -10,7 +10,6 @@
     - freelance
     - staff training 
   </pre>
-  [![Used](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenhdz&&hide=TSQL,typescript,hack,papyrus&langs_count=20&theme=tokyonight)]()
   <pre>
     Experiencie with technology as:
     - Laravel 
