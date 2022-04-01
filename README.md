@@ -4,14 +4,28 @@
 
 <h3 align="center">A passionate frontend and backend developer 👨🏻‍💻 from Medellin, Colombia 🇨🇴</h3>
 
-<p align="center">
   <pre align="left">
-    Experiencie the work with:
-    - home office 
+    Experiencie the work as:
+    - home office with companies
     - freelance
     - staff training 
   </pre>
-</p>
+  
+  <pre align="left">
+    Experiencie with technology as:
+    - Laravel 
+    - Vuejs
+    - Nodejs 
+    - Javascript
+    - Php
+    - Python
+    - Css
+    - Html
+    - scss
+    - mongodb
+    - mysql
+    - flutter
+  </pre>
 
 
 [![My GitHub](https://github-readme-stats.vercel.app/api/?username=stevenhdz&count_private=false&theme=tokyonight&showicons=true)]() [![Used](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenhdz&layout=compact&hide=TSQL,typescript,hack,papyrus,scss&langs_count=10&theme=tokyonight)]()
