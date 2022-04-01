@@ -25,6 +25,7 @@
     - mongodb
     - mysql
     - flutter
+    - linux
   </pre>
 
 
