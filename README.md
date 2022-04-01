@@ -29,4 +29,4 @@
   </pre>
 
 
-[![Used](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenhdz&layout=compact&hide=TSQL,typescript,hack,papyrus,scss&langs_count=10&theme=tokyonight)]()
+[![Used](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenhdz&&hide=TSQL,typescript,hack,papyrus&langs_count=20&theme=tokyonight)]()
