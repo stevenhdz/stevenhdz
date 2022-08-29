@@ -25,4 +25,8 @@
     - mysql
     - flutter
     - linux
+    - sonarqube
+    - flask
+    - scrum
+    
   </pre>
