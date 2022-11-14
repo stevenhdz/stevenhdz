@@ -38,7 +38,8 @@ Backend:
   height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/sqlite.svg"> <img style=" width: 50px;
   height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/flask.svg"> <img style=" width: 50px;
   height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/docker.svg"> <img style=" width: 50px;
-  height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/git.svg"> 
+  height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/git.svg"> <img style=" width: 50px;
+  height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/google-cloud.svg"> 
  
 System OS:
 
