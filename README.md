@@ -14,6 +14,9 @@
     
     
 <h3 align="center">Experience with technology on a work and personal level:</h3>
+
+
+Application where I got the experience are rpa, crm, web, apps, AI
     
     
 Frontend:
