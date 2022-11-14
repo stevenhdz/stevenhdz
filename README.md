@@ -27,13 +27,13 @@ Backend:
 
 <img style=" width: 50px;
   height: 50px; float:right;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/laravel.svg"> <img style=" width: 50px;
-  height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/nodejs.svg">  <img style=" width: 50px;
-  height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/php.svg">  <img style=" width: 50px;
-  height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg">  <img style=" width: 50px;
-  height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/graphql.svg">  <img style=" width: 50px;
-  height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/mongodb-icon.svg">  <img style=" width: 50px;
-  height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/mysql.svg">  <img style=" width: 50px;
-  height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/redis.svg">  <img style=" width: 50px;
+  height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/nodejs.svg"> <img style=" width: 50px;
+  height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/php.svg"> <img style=" width: 50px;
+  height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg"> <img style=" width: 50px;
+  height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/graphql.svg"> <img style=" width: 50px;
+  height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/mongodb-icon.svg"> 
+  <img style=" width: 50px; height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/mysql.svg"> <img style=" width: 50px;
+  height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/redis.svg"> <img style=" width: 50px;
   height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/sqlite.svg"> <img style=" width: 50px;
   height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/flask.svg"> <img style=" width: 50px;
   height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/docker.svg"> 
