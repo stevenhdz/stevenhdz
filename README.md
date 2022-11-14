@@ -64,9 +64,11 @@ Backend:
  Movil: 
  <img style=" width: 50px;
   height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/flutter.svg"> 
+ <img style=" width: 50px;
+  height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/pwa.svg"> 
   
 
-Testing and Security:
+Quantity and Security:
 
 <img style=" width: 50px;
   height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/sonarqube.svg">  
