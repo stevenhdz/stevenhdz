@@ -13,7 +13,7 @@
   <pre>
     Experiencie with technology as:
     
-[<img src="[./controllers_brief.svg](https://github.com/gilbarbara/logos/blob/master/logos/javascript.svg)">](https://github.com/gilbarbara/logos/blob/master/logos/javascript.svg)
+<img src="./controllers_brief.svg](https://github.com/gilbarbara/logos/blob/master/logos/javascript.svg">
     
     
     
