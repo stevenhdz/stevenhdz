@@ -38,14 +38,16 @@ Backend:
   height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/flask.svg"> <img style=" width: 50px;
   height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/docker.svg"> 
  
- System OS:
+System OS:
+
 <img style=" width: 50px;
   height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/archlinux.svg">  <img style=" width: 50px;
   height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/microsoft-windows.svg">  <img style=" width: 50px;
   height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/macOS.svg">  
   
   
- Movil: 
+ Movil:
+ 
  <img style=" width: 50px;
   height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/flutter.svg"> <img style=" width: 50px;
   height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/pwa.svg"> 
