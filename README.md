@@ -21,6 +21,15 @@ Frontend:
 <img style=" width: 50px;
   height: 50px;" src="https://github.com/gilbarbara/logos/blob/master/logos/vue.svg">
   
+  <img style=" width: 50px;
+  height: 50px;" src="https://github.com/gilbarbara/logos/blob/master/logos/css-3.svg">
+  
+  <img style=" width: 50px;
+  height: 50px;" src="https://github.com/gilbarbara/logos/blob/master/logos/html-5.svg">
+  
+  <img style=" width: 50px;
+  height: 50px;" src="https://github.com/gilbarbara/logos/blob/master/logos/sass.svg">
+  
 Backend:
 
 <img style=" width: 50px;
@@ -34,10 +43,9 @@ Backend:
 
 
 
+
+
     - graphql
-    - Css
-    - Html
-    - scss
     - mongodb
     - mysql
     - flutter
