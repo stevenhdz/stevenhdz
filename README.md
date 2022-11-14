@@ -11,7 +11,9 @@
     - staff training 
   </pre>
   <pre>
-    Experiencie with technology as:
+    
+    
+<h3 align="center">Experience with technology on a work and personal level:</h3>
     
     
 Frontend:
