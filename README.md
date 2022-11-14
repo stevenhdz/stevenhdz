@@ -18,6 +18,7 @@
     - Javascript
     - Php
     - Python
+    - graphql
     - Css
     - Html
     - scss
@@ -28,5 +29,7 @@
     - sonarqube
     - flask
     - scrum
+    - DevOps
+    - Docker
     
   </pre>
