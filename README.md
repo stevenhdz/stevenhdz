@@ -47,10 +47,24 @@ Backend:
   height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/redis.svg">  
 <img style=" width: 50px;
   height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/sqlite.svg">  
+  
+ 
+ System OS:
+<img style=" width: 50px;
+  height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/archlinux.svg">  
+<img style=" width: 50px;
+  height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/microsoft-windows.svg">  
+<img style=" width: 50px;
+  height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/macOS.svg">  
+  
 
+Testing and Security
+
+<img style=" width: 50px;
+  height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/sonarqube.svg">  
+  
+  
     - flutter
-    - linux
-    - sonarqube
     - flask
     - scrum
     - DevOps
