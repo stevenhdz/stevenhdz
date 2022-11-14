@@ -13,8 +13,8 @@
   <pre>
     Experiencie with technology as:
     
-<img style=" width: 50%;
-  height: 50%;" src="https://github.com/gilbarbara/logos/blob/master/logos/javascript.svg">
+<img style=" width: 50px;
+  height: 50px;" src="https://github.com/gilbarbara/logos/blob/master/logos/javascript.svg">
     
     
     
