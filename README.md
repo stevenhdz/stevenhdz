@@ -13,15 +13,20 @@
   <pre>
     Experiencie with technology as:
     
+    
+Frontend:
+    
 <img style=" width: 50px;
   height: 50px;" src="https://github.com/gilbarbara/logos/blob/master/logos/javascript.svg">
     
-    
-    
-    - Laravel 
+Backend:
+
+<img style=" width: 50px;
+  height: 50px;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/laravel.svg">
+<img style=" width: 50px;
+  height: 50px;" src="https://github.com/gilbarbara/logos/blob/master/logos/nodejs.svg">    
+
     - Vuejs
-    - Nodejs 
-    - Javascript
     - Php
     - Python
     - graphql
