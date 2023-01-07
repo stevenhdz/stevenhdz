@@ -18,8 +18,8 @@
     
 Frontend:
     
-<img style=" width: 50px;
-  height: 50px;" src="https://github.com/gilbarbara/logos/blob/master/logos/javascript.svg"> <img style=" width: 50px;
+<img style=" width: 20px;
+  height: 20px;" src="https://github.com/gilbarbara/logos/blob/master/logos/javascript.svg"> <img style=" width: 50px;
   height: 50px;" src="https://github.com/gilbarbara/logos/blob/master/logos/vue.svg"> <img style=" width: 50px;
   height: 50px;" src="https://github.com/gilbarbara/logos/blob/master/logos/css-3.svg"> <img style=" width: 50px;
   height: 50px;" src="https://github.com/gilbarbara/logos/blob/master/logos/html-5.svg"> <img style=" width: 50px;
