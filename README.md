@@ -17,7 +17,7 @@
     
     
 Frontend:
-    https://github.com/gilbarbara/logos/blob/main/logos/cakephp.svg
+
 <img style=" width: 50px;
   height: 50px;" src="https://github.com/gilbarbara/logos/blob/master/logos/javascript.svg"> <img style=" width: 50px;
   height: 50px;" src="https://github.com/gilbarbara/logos/blob/master/logos/vue.svg"> <img style=" width: 50px;
