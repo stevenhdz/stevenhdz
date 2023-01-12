@@ -17,7 +17,7 @@
     
     
 Frontend:
-    
+    https://github.com/gilbarbara/logos/blob/main/logos/cakephp.svg
 <img style=" width: 10px;
   height: 10px;" src="https://github.com/gilbarbara/logos/blob/master/logos/javascript.svg"> <img style=" width: 10px;
   height: 10px;" src="https://github.com/gilbarbara/logos/blob/master/logos/vue.svg"> <img style=" width: 10px;
@@ -29,7 +29,8 @@ Frontend:
 Backend:
 
 <img style=" width: 50px;
-  height: 50px; float:right;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/laravel.svg"> <img style=" width: 50px;
+  height: 50px; float:right;" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/laravel.svg"> <img style=" width: 10px;
+  height: 10px;" src="https://github.com/gilbarbara/logos/blob/main/logos/cakephp.svg"> <img style=" width: 50px;
   height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/nodejs.svg"> <img style=" width: 50px;
   height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/php.svg"> <img style=" width: 50px;
   height: 50px; float:right;" src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg"> <img style=" width: 50px;
