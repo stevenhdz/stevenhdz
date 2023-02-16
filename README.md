@@ -14,7 +14,8 @@
     
 <h3 align="center">Experience with technology on a work and personal level</h3>
 <h3 align="center">Application where I got the experience are rpa, crm, web, apps, AI, to level senior or middle</h3>
-    
+
+<------ vayan a mi linkedin ya que los iconos no cargan. 
     
 Frontend:
 
