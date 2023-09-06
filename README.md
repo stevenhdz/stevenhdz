@@ -15,19 +15,19 @@ Desarrollador de software full stack con 4,2 años de experiencia acreditada lab
 Tengo conocimiento a nivel intermedio y avanzado en:
 
 
-👨🏻‍💻: Php, JavaScript, TypeScript, c#, NodeJs, Python.
-🔖: Html, Css, Sass.
-📚: Laravel, Flask, VueJS + Quasar o Element, ReactJS.
-🧰: Git, Github, Bitbucket.
-💾: MongoDB, MySQL, SQLite, Redis.
-🥷: SonarQube.
-🤖: IBM Watson, Dialogflow.
-👨‍🏫: Scrum.
-🫙: Docker.
-🔒: Owasp Top 10.
-💁: GraphQL.
-🧰: Jira, azure devops.
-🤖: OpenAI.
-☁️: Azure, AWS, GCP.
+    👨🏻‍💻: Php, JavaScript, TypeScript, c#, NodeJs, Python.
+    🔖: Html, Css, Sass.
+    📚: Laravel, Flask, VueJS + Quasar o Element, ReactJS.
+    🧰: Git, Github, Bitbucket.
+    💾: MongoDB, MySQL, SQLite, Redis.
+    🥷: SonarQube.
+    🤖: IBM Watson, Dialogflow.
+    👨‍🏫: Scrum.
+    🫙: Docker.
+    🔒: Owasp Top 10.
+    💁: GraphQL.
+    🧰: Jira, azure devops.
+    🤖: OpenAI.
+    ☁️: Azure, AWS, GCP.
 
 Mi enfoque como desarrollador de software es crear soluciones de calidad de manera ágil y segura. Soy disciplinado, comprometido y estoy siempre buscando oportunidades para crecer personal y profesionalmente.
