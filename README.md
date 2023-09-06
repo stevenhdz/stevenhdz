@@ -2,7 +2,7 @@
 
 Hi 👋, I'm Steven Alexander H Jimenez
 
-A passionate frontend and backend developer 👨🏻‍💻 from Medellin, Colombia 🇨🇴
+A passionate frontend and backend developer 👨🏻‍💻 from CO 
 
     - home office with companies
     - freelance
