@@ -12,10 +12,10 @@
   </pre>
   <pre>
     
-<h3 align="center">Experience with technology on a work and personal level</h3>
-<h3 align="center">Application where I got the experience are rpa, crm, web, apps, AI, to level senior or middle</h3>
+<h3 align="center">Desarrollador de software full stack con 4,2 años de experiencia acreditada laboral, también en años pasados estuve un 1 año como freelance en la creación de aplicaciones grandes, medianas o pequeñas como páginas WEB, CRM, RPA, CMS, AI, SCRAPING, PWA, IVA entre otros.
 
-<------ vayan a mi linkedin ya que los iconos no cargan. 
+Tengo conocimiento a nivel intermedio y avanzado en:</h3>
+
     
 👨🏻‍💻: Php, JavaScript, TypeScript, c#, NodeJs, Python.
 🔖: Html, Css, Sass.
@@ -33,3 +33,5 @@
 ☁️: Azure, AWS, GCP.
     
   </pre>
+
+Mi enfoque como desarrollador de software es crear soluciones de calidad de manera ágil y segura. Soy disciplinado, comprometido y estoy siempre buscando oportunidades para crecer personal y profesionalmente.
