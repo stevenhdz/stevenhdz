@@ -4,16 +4,13 @@ Hi 👋, I'm Steven Alexander H Jimenez
 
 A passionate frontend and backend developer 👨🏻‍💻 from Medellin, Colombia 🇨🇴
 
-    Experiencie the work as:
     - home office with companies
     - freelance
     - staff training 
-
     
-Desarrollador de software full stack con 4,2 años de experiencia acreditada laboral, también en años pasados estuve un 1 año como freelance en la creación de aplicaciones grandes, medianas o pequeñas como páginas WEB, CRM, RPA, CMS, AI, SCRAPING, PWA, IVA entre otros.
+Full stack software developer with 4.2 years of accredited work experience, also in past years I was a 1 year freelance creating large, medium or small applications such as WEB pages, CRM, RPA, CMS, AI, SCRAPING, PWA, IVA among others.
 
-Tengo conocimiento a nivel intermedio y avanzado en:
-
+I have knowledge at intermediate and advanced level in:
 
     👨🏻‍💻: Php, JavaScript, TypeScript, c#, NodeJs, Python.
     🔖: Html, Css, Sass.
@@ -30,4 +27,4 @@ Tengo conocimiento a nivel intermedio y avanzado en:
     🤖: OpenAI.
     ☁️: Azure, AWS, GCP.
 
-Mi enfoque como desarrollador de software es crear soluciones de calidad de manera ágil y segura. Soy disciplinado, comprometido y estoy siempre buscando oportunidades para crecer personal y profesionalmente.
+My focus as a software developer is to create quality solutions in an agile and secure way. I am disciplined, committed and I am always looking for opportunities to grow personally and professionally.
