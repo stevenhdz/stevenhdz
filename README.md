@@ -8,7 +8,7 @@ A passionate developer 👨🏻‍💻 from CO
     - freelance
     - staff training 
     
-Full stack software developer with 4.2 years of accredited work experience, also in past years I was a 1 year freelance creating large, medium or small applications such as WEB pages, CRM, RPA, CMS, AI, SCRAPING, PWA, IVA among others.
+Full stack software developer with most 5 years of accredited work experience, also in past years I was a 1 year freelance creating large, medium or small applications such as WEB pages, CRM, RPA, CMS, AI, SCRAPING, PWA, IVA among others.
 
 I have knowledge at intermediate and advanced level in:
 
