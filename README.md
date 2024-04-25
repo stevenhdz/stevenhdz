@@ -14,7 +14,7 @@ I have knowledge at an intermediate and advanced level in:
 
     👨🏻‍💻: Php, JavaScript, TypeScript, NodeJs, Python, c# net core 8.
     🔖: Html, Css, Sass.
-    📚: Laravel, Flask, VueJS + Quasar o Element, ReactJS, NextJS
+    📚: Laravel, Flask, VueJS + Quasar o Element, ReactJS, ReactNative, NextJS
     🧰: Git, Github, Bitbucket, GitLab.
     💾: MongoDB, MySQL, SQLite, Redis.
     🥷: SonarQube security and best practice.
