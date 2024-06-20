@@ -12,7 +12,7 @@ I am a full stack developer with more than 5 years of experience in the agile an
 
 I have knowledge at an intermediate and advanced level in:
 
-    👨🏻‍💻: Php, JavaScript, TypeScript, NodeJs, Python, Go.
+    👨🏻‍💻: Php, JavaScript, TypeScript, NodeJs, Python.
     🔖: Html, Css, Sass.
     📚: Laravel, Flask, VueJS + Quasar o Element, ReactJS, NextJS, React-Native
     🧰: Git, Github, Bitbucket, GitLab.
