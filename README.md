@@ -8,24 +8,40 @@ A passionate developer 👨🏻‍💻 from CO
     - freelance
     - staff training 
     
-I am a full stack developer with more than 5 years of experience in the agile and secure creation of quality solutions, with a specialized focus on the development of web applications, native applications, artificial intelligence. I have worked in both corporate and freelance environments, which has given me a broad perspective and a proven ability to adapt to various situations and project requirements.
+Soy un desarrollador full stack 👨‍💻 con más de 5 años de experiencia en la creación ágil y segura de soluciones de software de alta calidad. Tengo un enfoque especializado en el desarrollo de aplicaciones web 🌐, aplicaciones nativas 📱 e inteligencia artificial 🤖. Mi experiencia abarca tanto entornos corporativos como freelance, lo que me ha permitido desarrollar una versatilidad única y adaptabilidad ante diversos desafíos.
 
-I have knowledge at an intermediate and advanced level in:
+🛠️ Habilidades Técnicas:
 
-    👨🏻‍💻: Php, JavaScript, TypeScript, NodeJs, Python.
-    🔖: Html, Css, Sass.
-    📚: Laravel, Flask, VueJS + Quasar o Element, ReactJS, NextJS, React-Native
-    🧰: Git, Github, Bitbucket, GitLab.
-    💾: MongoDB, MySQL, SQLite, Redis.
-    🥷: SonarQube security and best practice.
-    🤖: IBM Watson, Dialogflow ES - CX, Rasa.
-    👨‍🏫: Scrum.
-    🫙: Docker.
-    🔒: Owasp Top 10.
-    💁: GraphQL.
-    🧰: Jira, azure devops.
-    🤖: OpenAI, Jest.
-    ☁: Azure, AWS, GCP, Digital Ocean.
-    ☁: Whatsapp api meta y otras integraciones
+💻 Lenguajes de Programación:
+PHP | JavaScript | TypeScript | Node.js | Python
 
-My focus as a software developer is to create quality solutions in an agile and secure way. I am disciplined, committed and I am always looking for opportunities to grow personally and professionally.
+🌐 Desarrollo Frontend:
+HTML | CSS | Sass | Vue.js (Quasar, Element) | React.js | Next.js | React Native
+
+⚙️ Desarrollo Backend:
+Laravel | Flask | Express
+
+🗄️ Bases de Datos:
+MongoDB | MySQL | SQLite | Redis
+
+🚀 DevOps:
+Git | Docker 🐳 | CI/CD (Jira, Azure DevOps)
+
+🔒 Seguridad de Software:
+OWASP Top 10 | ISO 27001 | SonarQube
+
+🤖 Inteligencia Artificial:
+IBM Watson | Dialogflow (ES, CX) | Rasa
+
+☁️ Servicios en la Nube:
+AWS | GCP | Digital Ocean
+
+📊 Metodologías y Otras Competencias:
+Scrum | Kanban | Integraciones (API de WhatsApp de Meta y otras integraciones de terceros 📲) | Desarrollo de APIs (GraphQL, RESTful services)
+
+
+Logros y Pasiones:
+
+Mi pasión por el desarrollo de software se refleja en mi compromiso por seguir aprendiendo 📚 y aplicando las mejores prácticas en mis proyectos. He liderado con éxito múltiples proyectos desde la concepción hasta la implementación, siempre buscando crear soluciones que no solo cumplan con los requisitos funcionales, sino que también ofrezcan una experiencia de usuario excepcional ✨.
+
+Conéctate conmigo
