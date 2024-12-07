@@ -1,12 +1,14 @@
 
 
-Hi 👋, I'm Steven Alexander H Jimenez
+Hola yo soy Steven
 
-A passionate developer 👨🏻‍💻 from CO 
+Bienvenido a mi repositorio
 
-    - home office with companies
-    - freelance
-    - staff training 
+Soy un desarrollador de sodtware apasionado por aprender y enseñar 👨🏻‍💻 desde COLOMBIA
+
+    - Trabajo para compañias
+    - Freelance
+    - Consultor y entrenador
     
 Soy un desarrollador full stack 👨‍💻 con más de 5 años de experiencia en la creación ágil y segura de soluciones de software de alta calidad. Tengo un enfoque especializado en el desarrollo de aplicaciones web 🌐, aplicaciones nativas 📱 e inteligencia artificial 🤖. Mi experiencia abarca tanto entornos corporativos como freelance, lo que me ha permitido desarrollar una versatilidad única y adaptabilidad ante diversos desafíos.
 
