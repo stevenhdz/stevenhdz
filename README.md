@@ -12,32 +12,32 @@ Soy un desarrollador full stack 👨‍💻 con más de 5 años de experiencia e
 
 🛠️ Habilidades Técnicas:
 
-💻 Lenguajes de Programación:
-PHP | JavaScript | TypeScript | Node.js | Python
-
-🌐 Desarrollo Frontend:
-HTML | CSS | Sass | Vue.js (Quasar, Element) | React.js | Next.js | React Native
-
-⚙️ Desarrollo Backend:
-Laravel | Flask | Express
-
-🗄️ Bases de Datos:
-MongoDB | MySQL | SQLite | Redis
-
-🚀 DevOps:
-Git | Docker 🐳 | CI/CD (Jira, Azure DevOps)
-
-🔒 Seguridad de Software:
-OWASP Top 10 | ISO 27001 | SonarQube
-
-🤖 Inteligencia Artificial:
-IBM Watson | Dialogflow (ES, CX) | Rasa
-
-☁️ Servicios en la Nube:
-AWS | GCP | Digital Ocean
-
-📊 Metodologías y Otras Competencias:
-Scrum | Kanban | Integraciones (API de WhatsApp de Meta y otras integraciones de terceros 📲) | Desarrollo de APIs (GraphQL, RESTful services)
+    💻 Lenguajes de Programación:
+    PHP | JavaScript | TypeScript | Node.js | Python
+    
+    🌐 Desarrollo Frontend:
+    HTML | CSS | Sass | Vue.js (Quasar, Element) | React.js | Next.js | React Native
+    
+    ⚙️ Desarrollo Backend:
+    Laravel | Flask | Express
+    
+    🗄️ Bases de Datos:
+    MongoDB | MySQL | SQLite | Redis
+    
+    🚀 DevOps:
+    Git | Docker 🐳 | CI/CD (Jira, Azure DevOps)
+    
+    🔒 Seguridad de Software:
+    OWASP Top 10 | ISO 27001 | SonarQube
+    
+    🤖 Inteligencia Artificial:
+    IBM Watson | Dialogflow (ES, CX) | Rasa
+    
+    ☁️ Servicios en la Nube:
+    AWS | GCP | Digital Ocean
+    
+    📊 Metodologías y Otras Competencias:
+    Scrum | Kanban | Integraciones (API de WhatsApp de Meta y otras integraciones de terceros 📲) | Desarrollo de APIs (GraphQL, RESTful services)
 
 
 Logros y Pasiones:
