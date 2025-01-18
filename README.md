@@ -1,14 +1,6 @@
 
 
-Hola yo soy Steven
-
-Bienvenido a mi repositorio
-
-Soy un desarrollador de sodtware apasionado por aprender y enseñar 👨🏻‍💻 desde COLOMBIA
-
-    - Trabajo para compañias
-    - Freelance
-    - Consultor y entrenador
+Bienvenido a mi code
     
 Soy un desarrollador full stack 👨‍💻 con más de 5 años de experiencia en la creación ágil y segura de soluciones de software de alta calidad. Tengo un enfoque especializado en el desarrollo de aplicaciones web 🌐, aplicaciones nativas 📱 e inteligencia artificial 🤖. Mi experiencia abarca tanto entornos corporativos como freelance, lo que me ha permitido desarrollar una versatilidad única y adaptabilidad ante diversos desafíos.
 
