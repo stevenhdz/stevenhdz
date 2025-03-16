@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm steven from Colombia<br><br>I'm a full-stack developer 👨‍💻 with over 5 years of experience building high-quality software solutions for agile and secure applications. I have a specialized focus on developing web applications 🌐, native applications 📱, and artificial intelligence 🤖. My experience spans both corporate and freelance environments, which has allowed me to develop a unique versatility and adaptability to various challenges.</p>
+<p align="left">I'm steven from Colombia<br><br>I'm a full-stack developer 👨‍💻 with over 5 years of experience building high-quality software solutions for agile and secure applications. I have a specialized focus on developing web applications 🌐, native applications 📱, and artificial intelligence 🤖. My experience spans both corporate and freelance environments, which has allowed me to develop a unique versatility and adaptability to various challenges.<br><br>Achievements and Passions:<br><br>My passion for software development is reflected in my commitment to continuing to learn 📚 and applying best practices to my projects. I have successfully led multiple projects from conception to implementation, always seeking to create solutions that not only meet functional requirements but also offer an exceptional user experience ✨.</p>
 
 ###
 
@@ -47,6 +47,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
 ###
@@ -111,12 +113,18 @@
 
 ###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+</div>
+
+###
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=stevenhdz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stevenhdz&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
 
 ###
