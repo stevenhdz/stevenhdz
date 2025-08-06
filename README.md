@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm steven from Colombia<br><br>I'm a full-stack developer 👨‍💻 with over 5 years of experience building high-quality software solutions for agile and secure applications. I have a specialized focus on developing web applications 🌐, native applications 📱, and artificial intelligence 🤖. My experience spans both corporate and freelance environments, which has allowed me to develop a unique versatility and adaptability to various challenges.<br><br>Achievements and Passions:<br><br>My passion for software development is reflected in my commitment to continuing to learn 📚 and applying best practices to my projects. I have successfully led multiple projects from conception to implementation, always seeking to create solutions that not only meet functional requirements but also offer an exceptional user experience ✨.</p>
+<p align="left">I'm steven from Colombia<br><br>I'm a full-stack developer 👨‍💻 with over 8 years of experience building high-quality software solutions for agile and secure applications. I have a specialized focus on developing web applications 🌐, native applications 📱, and artificial intelligence 🤖. My experience spans both corporate and freelance environments, which has allowed me to develop a unique versatility and adaptability to various challenges.<br><br>Achievements and Passions:<br><br>My passion for software development is reflected in my commitment to continuing to learn 📚 and applying best practices to my projects. I have successfully led multiple projects from conception to implementation, always seeking to create solutions that not only meet functional requirements but also offer an exceptional user experience ✨.</p>
 
 ###
 
