@@ -29,7 +29,24 @@
 
 ###
 
-<p align="left">I'm steven from Colombia<br><br>I'm a full-stack developer 👨‍💻 with over 6 years of experience building high-quality software solutions for agile and secure applications. I have a specialized focus on developing web applications 🌐, native applications 📱, and artificial intelligence 🤖. My experience spans both corporate and freelance environments, which has allowed me to develop a unique versatility and adaptability to various challenges.<br><br>Achievements and Passions:<br><br>My passion for software development is reflected in my commitment to continuing to learn 📚 and applying best practices to my projects. I have successfully led multiple projects from conception to implementation, always seeking to create solutions that not only meet functional requirements but also offer an exceptional user experience ✨.</p>
+<p align="left">
+
+  I am a senior full-stack developer with over six years of experience leading and executing high-impact software projects. My approach combines technical excellence with strategic vision, helping companies build secure, scalable, and user-centric applications.
+
+I have worked in corporate and freelance environments, which has allowed me to develop a strong adaptability, lead multidisciplinary teams, and deliver solutions that generate real business value.
+
+Experience and Achievements
+I have provided technical leadership in end-to-end projects, from architecture definition to production deployment.
+I have achieved performance improvements and optimization.
+I have implemented best practices in security and quality, ensuring reliable and maintainable software.
+I have designed applications focused on user experience and scalability.
+
+Work Philosophy
+My passion for development began in high school, and today I apply it with a senior focus: not only writing code, but designing solutions that positively impact business objectives.
+
+Connect with me
+I am open to collaborating with companies seeking innovation and technological growth, contributing both to technical execution and strategic decision-making.
+</p>
 
 ###
 
