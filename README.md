@@ -47,9 +47,9 @@ Artificial intelligence and machine learning: IBM Watson · Dialogflow · Rasa �
 Methodologies and principles: Scrum · Kanban · SOLID · KISS · DRY · C4 ADR Model · Patterns · Architecture · big0 notation
 
 What I bring:
-• Clean and structured development with a focus on performance and maintainability
-• Effective collaboration with multidisciplinary teams in agile environments
-• Commitment to good coding, architecture, and scalability practices
+  • Clean and structured development with a focus on performance and maintainability
+  • Effective collaboration with multidisciplinary teams in agile environments
+  • Commitment to good coding, architecture, and scalability practices
 
 I am motivated to continue learning and contribute impactful technological solutions.
 </p>
