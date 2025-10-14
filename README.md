@@ -22,7 +22,7 @@
 ---
 
 <h1 align="center">Hey there 👋, I'm Steven!</h1>
-<h3 align="center">🚀 Full Stack Software Engineer | +6 years of experience</h3>
+<h3 align="center">🚀 Full Stack Software Engineer | 6 years of experience</h3>
 
 ---
 
@@ -30,7 +30,7 @@
 
 <p align="left">
 I am a <strong>Full Stack Software Engineer</strong> passionate about building <strong>modern, scalable, and high-performance web applications</strong> that transform the user experience and optimize business processes.<br><br>
-With over six years of experience, I have participated in the entire development cycle — from architecture and API design to implementing dynamic, maintainable interfaces.<br><br>
+I have participated in the entire development cycle — from architecture and API design to implementing dynamic, maintainable interfaces.<br><br>
 <b>What I bring:</b><br>
 • Clean, structured, and maintainable code.<br>
 • Focus on performance, scalability, and architecture best practices.<br>
