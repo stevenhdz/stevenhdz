@@ -41,6 +41,8 @@ What I bring:
   - Commitment to good coding, architecture, and scalability practices
 
 I am motivated to continue learning and contribute impactful technological solutions.
+
+https://www.linkedin.com/in/stevenhdz/
 </p>
 
 ###
