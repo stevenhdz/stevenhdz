@@ -35,21 +35,10 @@ I am a Full Stack Software Engineer passionate about building modern, scalable, 
 
 I have experience in all stages of the development cycle: from API design to implementing dynamic and efficient interfaces.
 
-Technical skills
-Languages: PHP · JavaScript · TypeScript · Python · Node.js · C++
-Frontend: HTML · CSS · Sass · Vue.js · React.js · Next.js · React Native
-Backend: Laravel · Flask · Express · NestJS · REST API · GraphQL
-Databases: MySQL · MongoDB · SQLite · Redis · Neo4j
-Cloud and DevOps: AWS · GCP · Azure · Docker · Git · GitLab · CI/CD (Jira, Azure DevOps)
-Documentation and API: Swagger · Stripe · SendGrid · WhatsApp API
-Security: OWASP Top 10 · ISO 27001 · SonarQube
-Artificial intelligence and machine learning: IBM Watson · Dialogflow · Rasa · OpenAI · GenAI
-Methodologies and principles: Scrum · Kanban · SOLID · KISS · DRY · C4 ADR Model · Patterns · Architecture · big0 notation
-
 What I bring:
-  • Clean and structured development with a focus on performance and maintainability
-  • Effective collaboration with multidisciplinary teams in agile environments
-  • Commitment to good coding, architecture, and scalability practices
+  - Clean and structured development with a focus on performance and maintainability
+  - Effective collaboration with multidisciplinary teams in agile environments
+  - Commitment to good coding, architecture, and scalability practices
 
 I am motivated to continue learning and contribute impactful technological solutions.
 </p>
