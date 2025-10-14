@@ -31,16 +31,17 @@
 
 <p align="left">
 
-I am a Full Stack Software Engineer passionate about building modern, scalable, and high-performance web applications that improve the user experience and optimize processes.
+I am a Full Stack Software Engineer passionate about creating modern, scalable, and high-performance web applications that transform the user experience and optimize business processes.
 
-I have experience in all stages of the development cycle: from API design to implementing dynamic and efficient interfaces.
+With over six years of experience, I have participated in the entire development cycle, from architecture and API design to the implementation of dynamic and maintainable interfaces.
 
 What I bring:
-  - Clean and structured development with a focus on performance and maintainability
-  - Effective collaboration with multidisciplinary teams in agile environments
-  - Commitment to good coding, architecture, and scalability practices
+- Clean, structured, and maintainability-oriented development.
+- Focus on performance, scalability, and good architectural practices.
+- Technical leadership and effective collaboration in agile multidisciplinary teams.
+- A mindset of continuous improvement and constant learning.
 
-I am motivated to continue learning and contribute impactful technological solutions.
+Continue to grow as a senior engineer, providing high-impact technological solutions that combine innovation, quality, and efficiency.
 
 https://www.linkedin.com/in/stevenhdz/
 </p>
