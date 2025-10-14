@@ -31,21 +31,27 @@
 
 <p align="left">
 
-  I am a senior full-stack developer with over six years of experience leading and executing high-impact software projects. My approach combines technical excellence with strategic vision, helping companies build secure, scalable, and user-centric applications.
+I am a Full Stack Software Engineer passionate about building modern, scalable, and high-performance web applications that improve the user experience and optimize processes.
 
-I have worked in corporate and freelance environments, which has allowed me to develop a strong adaptability, lead multidisciplinary teams, and deliver solutions that generate real business value.
+I have experience in all stages of the development cycle: from API design to implementing dynamic and efficient interfaces.
 
-Experience and Achievements
-I have provided technical leadership in end-to-end projects, from architecture definition to production deployment.
-I have achieved performance improvements and optimization.
-I have implemented best practices in security and quality, ensuring reliable and maintainable software.
-I have designed applications focused on user experience and scalability.
+Technical skills
+Languages: PHP · JavaScript · TypeScript · Python · Node.js · C++
+Frontend: HTML · CSS · Sass · Vue.js · React.js · Next.js · React Native
+Backend: Laravel · Flask · Express · NestJS · REST API · GraphQL
+Databases: MySQL · MongoDB · SQLite · Redis · Neo4j
+Cloud and DevOps: AWS · GCP · Azure · Docker · Git · GitLab · CI/CD (Jira, Azure DevOps)
+Documentation and API: Swagger · Stripe · SendGrid · WhatsApp API
+Security: OWASP Top 10 · ISO 27001 · SonarQube
+Artificial intelligence and machine learning: IBM Watson · Dialogflow · Rasa · OpenAI · GenAI
+Methodologies and principles: Scrum · Kanban · SOLID · KISS · DRY · C4 ADR Model · Patterns · Architecture · big0 notation
 
-Work Philosophy
-My passion for development began in high school, and today I apply it with a senior focus: not only writing code, but designing solutions that positively impact business objectives.
+What I bring:
+• Clean and structured development with a focus on performance and maintainability
+• Effective collaboration with multidisciplinary teams in agile environments
+• Commitment to good coding, architecture, and scalability practices
 
-Connect with me
-I am open to collaborating with companies seeking innovation and technological growth, contributing both to technical execution and strategic decision-making.
+I am motivated to continue learning and contribute impactful technological solutions.
 </p>
 
 ###
