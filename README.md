@@ -103,11 +103,11 @@ I have participated in the entire development cycle — from architecture and AP
 **Frontend:** HTML · CSS · Sass · Vue.js · React.js · Next.js · React Native  
 **Backend:** Laravel · Flask · Express · NestJS · APIs REST · GraphQL  
 **Databases:** MySQL · MongoDB · SQLite · Redis · Neo4j  
-**Cloud & DevOps:** AWS · GCP · Azure · Docker · Git · GitLab · CI/CD (Jira, Azure DevOps)  
-**Documentation & APIs:** Swagger · Stripe · SendGrid · WhatsApp API  
+**Cloud & DevOps:** AWS · GCP · Docker · Git · Jira
+**Testing & QA:** Jest · PhpUnit · Pytest
 **Security:** OWASP Top 10 · ISO 27001 · SonarQube  
 **AI & ML:** IBM Watson · Dialogflow · Rasa · OpenAI · GenAI  
-**Methodologies & Principles:** Scrum · Kanban · SOLID · KISS · DRY · C4 Model · ADR · Patterns · Architecture · Big O Notation  
+**Methodologies & Principles:** Scrum · Kanban · SOLID · KISS · DRY · C4 Model · ADR · Design Patterns · Architecture · Notación Big O · Workflows (CI/CD) Pipeline Github Actions · Swagger 
 
 ---
 
