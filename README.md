@@ -22,7 +22,7 @@
 ---
 
 <h1 align="center">Hey there 👋, I'm Steven!</h1>
-<h3 align="center">🚀 Full Stack Software Engineer | 7 years of experience</h3>
+<h3 align="center">🚀 Full Stack Software Engineer | 8 years of experience</h3>
 
 ---
 
