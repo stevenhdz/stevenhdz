@@ -1,71 +1,56 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<div align="center">Hi, I'm Steven 👋
 
-###
+Senior Software Engineer · Tech Lead · Solution Architect
 
-<div align="center">
-  <a href="https://linkedin.com/in/stevenhdz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+8+ years building scalable, maintainable, secure software.
+
+<p>
+  <a href="https://linkedin.com/in/stevenhdz">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://discord.gg/x5YaDac" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="https://sltechnology.github.io/modern-craft-works/">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</div>
+</p></div>---
 
-###
+👨‍💻 About Me
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=stevenhdz.stevenhdz&"  />
-</div>
+Software Engineer focused on software architecture, backend, full-stack development, cloud, security, and AI.
 
----
+I build solutions with a strong focus on simplicity, scalability, maintainability, and engineering quality.
 
-<h1 align="center">Hey there 👋, I'm Steven!</h1>
-<h3 align="center">🚀 Full Stack Software Engineer | 8 years of experience</h3>
+Core areas:
 
----
-
-### 👩‍💻 About Me
-
-<p align="left">
-I am a <strong>Full Stack Software Engineer</strong> passionate about building <strong>modern, scalable, and high-performance web applications</strong> that transform the user experience and optimize business processes.<br><br>
-I have participated in the entire development cycle — from architecture and API design to implementing dynamic, maintainable interfaces.<br><br>
-<b>What I bring:</b><br>
-• Clean, structured, and maintainable code.<br>
-• Focus on performance, scalability, and architecture best practices.<br>
-• Technical leadership and collaboration in agile teams.<br>
-• Continuous learning and improvement mindset.<br><br>
-<b>Goal:</b> Continue growing as a senior engineer, delivering high-impact technological solutions that combine innovation, quality, and efficiency.
-</p>
+- 🏗️ Software Architecture & Design
+- ⚙️ Backend & API Development
+- 💻 Full-Stack Engineering
+- ☁️ Cloud & DevOps
+- 🔐 Application Security
+- 🤖 AI & Automation
+- 🧑‍💻 Technical Leadership & Mentoring
 
 ---
 
-### 📊 My Stats
+🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stevenhdz&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=true&order=2" height="200" alt="languages graph"/>
-</div>
+Languages: C# · Python · TypeScript · JavaScript · PHP · C++
 
----
+Frontend: React · Next.js · React Native · Tailwind CSS
 
-### 🧠 Technical Skills Summary
+Backend: .NET / ASP.NET Core · Laravel · Flask · NestJS · REST · GraphQL
 
-**Languages:** PHP · JavaScript · TypeScript · Python · Node.js · C++  
-**Frontend:** HTML · CSS · Sass · Vue.js · React.js · Next.js · React Native  
-**Backend:** Laravel · Flask · Express · NestJS · APIs REST · GraphQL  
-**Databases:** MySQL · MongoDB · SQLite · Redis · Neo4j  
-**Cloud & DevOps:** AWS · GCP · Docker · Git · Jira  
-**Testing & QA:** Jest · PhpUnit · Pytest  
-**Security:** OWASP Top 10 · ISO 27001 · SonarQube  
-**AI & ML:** IBM Watson · Dialogflow · Rasa · OpenAI · GenAI  
-**Methodologies & Principles:** Scrum · Kanban · SOLID · KISS · DRY · C4 Model · ADR · Design Patterns · Architecture · Notación Big O · Workflows (CI/CD) Pipeline Github Actions · Swagger 
+Data: SQL Server · MySQL · MongoDB · Redis
+
+Cloud & DevOps: AWS · GCP · Docker · Kubernetes · Terraform · CI/CD
+
+Architecture: DDD · Hexagonal · Clean Architecture · SOLID · KISS · DRY · C4 · ADR
+
+Security: OWASP · ISO 27001 · SAST · DAST · Secure SDLC
+
+AI: LLMs · Generative AI · OpenAI · AI-assisted Development
 
 ---
 
-<div align="center">
-  <i>“Building technology that blends performance, scalability, and user experience.”</i>  
-  <br><br>
-  🌐 <a href="https://linkedin.com/in/stevenhdz">linkedin.com/in/stevenhdz</a>
-  🌐 <a href="https://sltechnology.github.io/modern-craft-works/">porfolio</a>
+<div align="center">«Build simple. Build scalable. Build with purpose.»
+
 </div>
