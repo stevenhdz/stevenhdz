@@ -5,7 +5,7 @@
   <a href="https://discord.gg/x5YaDac">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="25" />
   </a>
-</p><img src="https://komarev.com/ghpvc/?username=stevenhdz&style=flat-square" alt="Profile views" /></div>---
+</p><img src="https://komarev.com/ghpvc/?username=stevenhdz&style=flat-square" alt="Profile views" /></div>
 
 👨‍💻 About Me
 
