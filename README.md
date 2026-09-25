@@ -17,12 +17,6 @@ Engineering Focus
 
 Architecture · Backend · Full Stack · Cloud · Security · AI · Technical Leadership
 
----
-
-📊 GitHub Stats
-
-<div align="center"><img height="180" src="https://github-readme-stats.vercel.app/api?username=stevenhdz&show_icons=true&hide_border=true&theme=dark&rank_icon=github" /><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenhdz&layout=compact&hide_border=true&theme=dark&langs_count=10" /></div>---
-
 <div align="center"><strong>Build simple. Build scalable. Build with purpose.</strong>
 
 <br><br>
