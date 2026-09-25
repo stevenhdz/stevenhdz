@@ -17,11 +17,6 @@ Engineering Focus
 
 Architecture · Backend · Full Stack · Cloud · Security · AI · Technical Leadership
 
-<div align="center"><strong>Build simple. Build scalable. Build with purpose.</strong>
-
-<br><br>
-
-<a href="https://linkedin.com/in/stevenhdz">LinkedIn</a> ·
-<a href="https://sltechnology.github.io/modern-craft-works/">Portfolio</a>
+<div align="center"><strong>Build simple. Build scalable. Build with purpose.
 
 </div>
