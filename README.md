@@ -17,31 +17,17 @@ Senior Software Engineer · Tech Lead · Solution Architect
 
 Software Engineer focused on software architecture, backend, full-stack development, cloud, security and AI.
 
-I build software with a focus on simplicity, scalability, maintainability and technical quality.
+I build software with a focus on simplicity, scalability, maintainability and technical quality, while contributing to technical decisions, code quality and team mentoring.
 
-Focus: Architecture · Backend · Full Stack · Cloud · Security · AI · Technical Leadership
+Engineering Focus
 
----
-
-🛠️ Tech Stack
-
-Languages: C# · Python · TypeScript · JavaScript · PHP · C++
-
-Frontend: React · Next.js · React Native · Tailwind CSS
-
-Backend: .NET · ASP.NET Core · Laravel · Flask · NestJS · REST · GraphQL
-
-Databases: SQL Server · MySQL · MongoDB · Redis
-
-Cloud & DevOps: AWS · GCP · Docker · Kubernetes · Terraform · CI/CD
-
-Architecture: DDD · Hexagonal · Clean Architecture · SOLID · KISS · DRY · C4 · ADR
-
-Security: OWASP · ISO 27001 · SAST · DAST · Secure SDLC
-
-AI: LLMs · Generative AI · OpenAI · AI-assisted Development
+Architecture · Backend · Full Stack · Cloud · Security · AI · Technical Leadership
 
 ---
+
+📊 GitHub Stats
+
+<div align="center"><img height="180" src="https://github-readme-stats.vercel.app/api?username=stevenhdz&show_icons=true&hide_border=true&theme=dark&rank_icon=github" /><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenhdz&layout=compact&hide_border=true&theme=dark&langs_count=10" /></div>---
 
 <div align="center">Build simple. Build scalable. Build with purpose.
 
